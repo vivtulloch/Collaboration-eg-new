@@ -1,0 +1,21 @@
+---
+title: "uq_collab"
+output: html_document
+author: "Viv TUlloch"
+date: "19/6/2019"
+
+
+http://ohi-science.org/data-science-training/collaborating.html#create-a-gh-pages-branch-partner-1
+
+New repository created by Partner 1, 
+Create branch gp-pages (creates a website automatically)
+delete master branch so there is only one on the website
+Clone to desktop using Rstudio and URL
+
+```{r}
+
+
+```
+
+
+---
